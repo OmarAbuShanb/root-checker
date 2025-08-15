@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Known root management apps -->
+    <queries>
+        <!-- Magisk -->
+        <package android:name="com.topjohnwu.magisk" />
+        <!-- KingRoot -->
+        <package android:name="com.kingroot.kinguser" />
+        <!-- SuperSU -->
+        <package android:name="eu.chainfire.supersu" />
+        <package android:name="com.thirdparty.superuser" />
+        <!-- Superuser -->
+        <package android:name="com.noshufou.android.su" />
+    </queries>
+
+    <!-- Known packages for major emulators -->
+    <queries>
+        <!-- BlueStacks -->
+        <package android:name="com.bluestacks" />
+        <package android:name="com.bluestacks.home" />
+        <!-- Genymotion -->
+        <package android:name="com.genymotion" />
+        <!-- VMOS -->
+        <package android:name="com.vphone.gplay" />
+        <package android:name="com.vphone.launcher" />
+        <!-- Nox Player -->
+        <package android:name="com.noxgroup.app" />
+        <!-- LDPlayer -->
+        <package android:name="com.ldplayer.ldmultiplayer" />
+        <!-- QEMU -->
+        <package android:name="org.qemu.android" />
+        <!-- AndroVM -->
+        <package android:name="androVM" />
+        <!-- YouWave -->
+        <package android:name="com.youwave.android" />
+    </queries>
+
+</manifest>
