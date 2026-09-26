@@ -4,13 +4,26 @@
     <queries>
         <!-- Magisk -->
         <package android:name="com.topjohnwu.magisk" />
+        <!-- Magisk Alpha (unofficial) -->
+        <package android:name="io.github.vvb2060.magisk" />
+        <!-- KernelSU -->
+        <package android:name="me.weishu.kernelsu" />
+        <!-- APatch -->
+        <package android:name="me.bmax.apatch" />
         <!-- KingRoot -->
         <package android:name="com.kingroot.kinguser" />
+        <!-- KingoRoot -->
+        <package android:name="com.kingoapp.root" />
         <!-- SuperSU -->
         <package android:name="eu.chainfire.supersu" />
         <package android:name="com.thirdparty.superuser" />
         <!-- Superuser -->
         <package android:name="com.noshufou.android.su" />
+        <!-- Framaroot -->
+        <package android:name="com.alephzain.framaroot" />
+        <!-- RootCloak -->
+        <package android:name="com.devadvance.rootcloak" />
+        <package android:name="com.devadvance.rootcloakplus" />
     </queries>
 
     <!-- Known packages for major emulators -->
