@@ -52,18 +52,17 @@ dependencyResolutionManagement {
 #### Gradle (Kotlin DSL) - `build.gradle.kts`:
 ```kotlin
 dependencies {
-    implementation("com.github.YourUsername:RootChecker:1.0.0")
+    implementation("com.github.omarabushanb:root-checker:1.0.0")
 }
 ```
 
 #### Gradle (Groovy DSL) - `build.gradle`:
 ```groovy
 dependencies {
-    implementation 'com.github.YourUsername:RootChecker:1.0.0'
+    implementation 'com.github.omarabushanb:root-checker:1.0.0'
 }
 ```
 
-> **Note:** Replace `YourUsername` with your GitHub username and `1.0.0` with your desired version release.
 
 ---
 

@@ -47,7 +47,7 @@ afterEvaluate {
         publications {
             create<MavenPublication>("release") {
                 from(components["release"])
-                groupId = "com.github.User"
+                groupId = "com.github.omarabushanb"
                 artifactId = "root-checker"
                 version = "1.0.0"
             }
