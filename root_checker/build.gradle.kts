@@ -8,7 +8,7 @@ plugins {
 }
 
 android {
-    namespace = "dev.anonymous.root_checher"
+    namespace = "dev.anonymous.root_checker"
     compileSdk = 36
 
     defaultConfig {

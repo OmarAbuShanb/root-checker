@@ -10,7 +10,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/root_checher" />
+            <option value="$PROJECT_DIR$/root_checker" />
             <option value="$PROJECT_DIR$/sample" />
           </set>
         </option>

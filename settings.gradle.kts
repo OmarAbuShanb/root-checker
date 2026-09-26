@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "RootCheckerApp"
 include(":sample")
-include(":root_checher")
+include(":root_checker")
